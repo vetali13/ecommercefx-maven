@@ -1,0 +1,16 @@
+domain\Money.class
+dao\ManufacturedRepository.class
+maven_fx\ecommercefx\PrimaryController.class
+dao\CurrencyRepository.class
+domain\Currency.class
+domain\AbstractProduct.class
+dao\ProductRepository.class
+domain\Category.class
+dao\DBConnection.class
+maven_fx\ecommercefx\SecondaryController.class
+domain\Money$1.class
+domain\ProductFactory.class
+dao\CategoryRepository.class
+domain\Product.class
+maven_fx\ecommercefx\App.class
+domain\CurrencyProvider.class
